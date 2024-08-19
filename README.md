@@ -66,7 +66,7 @@ Before we start, ensure you have the following:
    - Alternatively, you can manually configure individual devices to use Pi-hole as their DNS server.
 
 2. **Test Pi-hole**  
-   - To verify that Pi-hole is working, try visiting a site with a lot of ads (like [speedtest.net](http://speedtest.net)). You should notice that most ads are blocked.
+   - To verify that Pi-hole is working, try visiting a site with a lot of ads (like [Here](https://d3ward.github.io/toolz/adblock.html)). You should notice that most ads are blocked.
    - You can also monitor DNS queries and blocked domains from the Pi-hole web interface.
 
 ## Optional: Set Up Pi-hole as DHCP Server
