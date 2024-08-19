@@ -54,10 +54,16 @@ Before we start, ensure you have the following:
      - **Set a static IP address** for your Raspberry Pi (make sure it’s outside your router’s DHCP range)
      - **Select blocklists** to determine which ads and trackers to block (the default ones are usually sufficient)
      - **Install the web admin interface** to manage Pi-hole from your browser
+    
+       ![adlists](https://github.com/user-attachments/assets/54d72da7-1c25-4333-aa4e-31586f787634)
+
 
 3. **Finalize the Setup**  
    - After the installation completes, Pi-hole will provide you with a summary of the setup, including the URL for the web interface and the admin password.
    - You can access the Pi-hole dashboard by navigating to `http://<RaspberryPiIPAddress>/admin` from any device on your network.
+  
+     ![dashhboard](https://github.com/user-attachments/assets/2868689a-6c95-41ae-96cf-99bffb8cbc36)
+
 
 ## Step 3: Configure Your Network
 
@@ -88,6 +94,10 @@ Congratulations! You've successfully set up Pi-hole on your Raspberry Pi. Enjoy 
 For further customization, you can explore additional blocklists, whitelist domains, or even integrate Pi-hole with other tools like Unbound for DNS over HTTPS.
 
 Happy browsing!
+
+![more data](https://github.com/user-attachments/assets/7b7d7647-0361-493a-9bca-f7f726ff0ee0)
+
+![databases](https://github.com/user-attachments/assets/5320b723-86e7-4111-95b6-3b827499c281)
 
 ## References
 
